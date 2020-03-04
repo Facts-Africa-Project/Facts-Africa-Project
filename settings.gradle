@@ -1,0 +1,4 @@
+rootProject.name='Facts Africa'
+include ':buyer'
+include ':vendor'
+include ':common'
